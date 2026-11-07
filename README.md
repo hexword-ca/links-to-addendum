@@ -16,15 +16,15 @@ Hyperlink to Addendum Converter for DOCX files (Refined Version).
 
 ## Installation of Requirements On Debian/Ubuntu
 
-    ```
-    sudo apt install python3 python3-pip python3-docx -y
-    ```
+```
+sudo apt install python3 python3-pip python3-docx -y
+```
 
 ## Usage
 
-    ```
-    python3 links_to_addendum.py <FileName.docx>
-    ```
+```
+python3 links_to_addendum.py <FileName.docx>
+```
 
 ## License
 
